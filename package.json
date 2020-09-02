@@ -1,8 +1,8 @@
 {
-  "name": "app",
+  "name": "strapi-langing-page",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "A Strapi Langing Page application",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -24,7 +24,7 @@
     "pg": "latest"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Anthony Tailer"
   },
   "strapi": {
     "uuid": "e985108d-0161-4d31-97fb-8ddea74c7cbc"
