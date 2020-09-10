@@ -1,8 +1,8 @@
 {
-  "collectionName": "components_page_section_abouts",
+  "collectionName": "components_page_section_about_projects",
   "info": {
-    "name": "sectionAbout",
-    "icon": "info-circle"
+    "name": "sectionAboutProject",
+    "icon": "info"
   },
   "options": {},
   "attributes": {
@@ -15,7 +15,7 @@
       "required": true
     },
     "image": {
-      "collection": "file",
+      "model": "file",
       "via": "related",
       "allowedTypes": [
         "images"
